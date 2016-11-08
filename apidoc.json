@@ -1,0 +1,13 @@
+{
+  "name": "iPC API",
+  "version": "1.0.0",
+  "description": "REST API for ipc",
+  "title": "API reference",
+  "url" : "https://ipc.com",
+  "template": {
+    "withCompare": true,
+    "withGenerator": false
+  },
+  "order": [
+  ]
+}
